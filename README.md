@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**ShadowXPA/ShadowXPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer originally from Portugal 🇵🇹 and currently based in New York 🇺🇸.
 
-Here are some ideas to get you started:
+My interest in computers and technology began at a young age. During high school, I started learning C++ through YouTube tutorials. I realized I wanted to learn more, so I decided to enroll in a Computer Science course. I liked it so much that I decided go for a bachelor's in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my experience is in building web applications, both front-end (HTML, CSS, JavaScript, jQuery) and back-end (Java, C#). Additionally, I enjoy developing console and desktop applications.
+
+Outside of work, I play games and listen to music, which help me unwind. I also love traveling and exploring the beauty nature has to offer.
+
+---
+
+Only personal projects on this account.  
+You can check out my school projects here: [@ShadowXPAEdu](https://github.com/ShadowXPAEdu).
